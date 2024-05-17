@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ervan Setyatama</h1>
 <h3 align="center">I'm programer from Indonesia</h3>
 
+<img align="right" alt = "coding" witdth = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7ZgZdz1L2KE8ielEbzKApte3kIznM2o9k462THcs1A&s">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erpan11400&label=Profile%20views&color=0e75b6&style=flat" alt="erpan11400" /> </p>
+
+- 🌱 I’m currently learning **C fundamental**
+
+- 📫 How to reach me **ervan.gkbi@gmail.com**
 
 - ⚡ Fun fact **I'm doesn't like the smell of gasoline**
 
