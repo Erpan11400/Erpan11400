@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erpan11400&label=Profile%20views&color=0e75b6&style=flat" alt="erpan11400" /> </p>
 
-- 💻 I'm currently studying **Computer Science**
+- 💻 I'm currently studying **Computer Science** on **Binus University**
 
 - ⛹🏻‍♂️ I work as a **Data Entry Assistant**
 
