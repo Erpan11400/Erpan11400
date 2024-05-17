@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ervan.gkbi@gmail.com**
 
-- ⚡ Fun fact **I'm doesn't like the smell of gasoline**
+- ⚡ Fun fact **I don't like the smell of gasoline**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
