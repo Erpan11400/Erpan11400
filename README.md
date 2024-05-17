@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ervan Setyatama</h1>
 <h3 align="center">I'm programer from Indonesia</h3>
 
-<img align="right" alt = "coding" witdth = "200px" src = "https://github.com/Erpan11400/Erpan11400/blob/main/Animation.gif">
+<img align="right" alt = "coding" witdth = "50" src = "https://github.com/Erpan11400/Erpan11400/blob/main/Animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erpan11400&label=Profile%20views&color=0e75b6&style=flat" alt="erpan11400" /> </p>
 
