@@ -8,13 +8,11 @@
 
 - 💻 I'm currently studying **Computer Science** on **Binus University**
 
-- ⛹🏻‍♂️ I work as a **Data Entry Assistant**
-
 - 🌱 I’m currently learning **C fundamental**
 
-- 📫 How to reach me **ervan.gkbi@gmail.com**
+- 📫 How to reach me **ervan.setyatama@binus.ac.id**
 
-- ⚡ Fun fact **I don't like the smell of gasoline**
+- 📃 My Portofolio : **https://portofolio-v1-eight-eta.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
