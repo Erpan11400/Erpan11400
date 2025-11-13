@@ -8,16 +8,17 @@
 
 - 💻 I'm currently studying **Computer Science** on **Binus University**
 
-- 🌱 I’m currently learning **C fundamental**
+- 🌱 I’m currently learning **C fundamentals** and am trying to migrate to **Full Stack Developer**.
 
-- 📫 How to reach me **ervan.setyatama@binus.ac.id**
+- 📫 Contact me on [Email](ervan.setyatama@binus.ac.id)
 
-- 📃 My Portofolio : **https://portofolio-v1-eight-eta.vercel.app/**
+- 📃 My [Portofolio](https://portofolio-v1-eight-eta.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ervan setyatama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ervan setyatama" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ervan-setyatama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ervan setyatama" height="30" width="40" /></a>
 <a href="https://instagram.com/ervan_stytma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ervan_stytma" height="30" width="40" /></a>
+<a href="https://line.me/ti/p/QOdcAl_DUm" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=21746&format=png&color=000000" alt="Line" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
